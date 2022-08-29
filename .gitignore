@@ -1,0 +1,10 @@
+__pycache__/
+cred/a
+cred/b
+scratch/
+venv/
+
+vout
+
+vault
+vault_1.11.2*
